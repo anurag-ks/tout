@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "772176140464",
+    "firebase_url": "https://dindarepo.firebaseio.com",
+    "project_id": "dindarepo",
+    "storage_bucket": "dindarepo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772176140464:android:ebe820c7cd04c080ed0375",
+        "android_client_info": {
+          "package_name": "com.rajabhishek.potata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772176140464-l7iqrdn0o4gf33h59s34nanu52364969.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzWltLvtvjVjwyoa1_lPWXXIucyxmQAMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772176140464-l7iqrdn0o4gf33h59s34nanu52364969.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
